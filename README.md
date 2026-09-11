@@ -8,6 +8,8 @@ Do not copy `company/`, `agents/`, or `tech/` here.
 
 Canonical URL after DNS: https://www.mimopetofertas.com.br/
 
+Until GitHub issues the custom-domain TLS cert, share **http://www.mimopetofertas.com.br/** so WhatsApp can load the preview image (`assets/img/og-cover.png`). Open Graph tags currently use `http://` for `og:image` for that reason.
+
 ## Gitflow
 
 - Production: **`master`** (GitHub Pages source `/`)
