@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="heroTitle">
-  <title id="heroTitle">Ilustração original: gato e cão em um cartão arredondado</title>
+  <title id="heroTitle">Cat and dog illustration</title>
   <rect x="24" y="28" width="592" height="424" rx="40" fill="#fffaf3" stroke="#70452D" stroke-width="3"/>
   <rect x="64" y="300" width="512" height="96" rx="24" fill="#F8F0E4"/>
-  <!-- cat body -->
   <ellipse cx="210" cy="292" rx="78" ry="58" fill="#C9823F" stroke="#70452D" stroke-width="3"/>
   <ellipse cx="210" cy="214" rx="52" ry="48" fill="#F8F0E4" stroke="#70452D" stroke-width="3"/>
   <path fill="#B9684A" stroke="#70452D" stroke-width="2" d="M168 178l18 32-28 4z"/>
@@ -11,7 +11,6 @@
   <circle cx="226" cy="216" r="5" fill="#3E2920"/>
   <path d="M204 236c8 10 24 10 32 0" fill="none" stroke="#70452D" stroke-width="2.5" stroke-linecap="round"/>
   <ellipse cx="210" cy="228" rx="6" ry="4" fill="#B9684A"/>
-  <!-- dog body -->
   <ellipse cx="430" cy="300" rx="92" ry="62" fill="#C9823F" stroke="#70452D" stroke-width="3"/>
   <ellipse cx="430" cy="214" rx="56" ry="50" fill="#C9823F" stroke="#70452D" stroke-width="3"/>
   <ellipse cx="382" cy="210" rx="16" ry="28" fill="#70452D"/>
@@ -22,7 +21,6 @@
   <ellipse cx="430" cy="226" rx="7" ry="5" fill="#3E2920"/>
   <path d="M414 246c10 12 26 12 36 0" fill="none" stroke="#70452D" stroke-width="2.5" stroke-linecap="round"/>
   <rect x="410" y="268" width="40" height="14" rx="7" fill="#9BA887"/>
-  <!-- paw motif -->
   <g transform="translate(300 78)" fill="#E8A48F" opacity="0.55">
     <ellipse cx="20" cy="28" rx="12" ry="10"/>
     <circle cx="6" cy="12" r="6"/>
