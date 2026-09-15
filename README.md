@@ -6,9 +6,9 @@ The office package stays private: https://github.com/PauloLinhares09/Mimopet-Ofe
 
 Do not copy `company/`, `agents/`, or `tech/` here.
 
-Canonical URL after DNS: https://www.mimopetofertas.com.br/
+Canonical URL: https://www.mimopetofertas.com.br/ (HTTPS enforced; custom-domain cert issued 2026-09-15).
 
-Until GitHub issues the custom-domain TLS cert, WhatsApp will not preview `https://` (the cert is still `*.github.io`). Share **http://www.mimopetofertas.com.br/?v=2** after a tag update so WhatsApp recrawls. `og:image` is a JPEG on jsDelivr HTTPS.
+WhatsApp / Open Graph: `og:url` and `og:image` are HTTPS on this host (`assets/img/og-cover.jpg`, 1200×630).
 
 ## Gitflow
 
@@ -21,3 +21,5 @@ Until GitHub issues the custom-domain TLS cert, WhatsApp will not preview `https
 Static one-pager + `privacidade.html`. Telegram CTA is disabled (“em breve”). No prices, SKUs, or invented handles.
 
 **v0.3.0:** `#lojas` names platforms we may watch (Cobasi piloto; Petz/Amazon/ML/Shopee informal). Design tokens and hero copy unchanged.
+
+**v0.3.1:** Custom-domain TLS live; Open Graph URL/image on `https://www.mimopetofertas.com.br/` so WhatsApp can scrape title, description, and cover.
