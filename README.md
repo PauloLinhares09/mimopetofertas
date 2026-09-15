@@ -19,3 +19,5 @@ Until GitHub issues the custom-domain TLS cert, WhatsApp will not preview `https
 ## v1
 
 Static one-pager + `privacidade.html`. Telegram CTA is disabled (“em breve”). No prices, SKUs, or invented handles.
+
+**v0.3.0:** `#lojas` names platforms we may watch (Cobasi piloto; Petz/Amazon/ML/Shopee informal). Design tokens and hero copy unchanged.
